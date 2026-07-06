@@ -1,0 +1,10 @@
+{
+  "name": "jelyvish-cron",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node cron-digest.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
